@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import pandas as pd
 import dash
 from dash import dcc
@@ -13,9 +7,6 @@ from jupyter_dash import JupyterDash
 import plotly.graph_objects as go
 import plotly.express as px
 from dash import no_update
-
-
-# In[20]:
 
 
 # Create a dash application
